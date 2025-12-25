@@ -1,0 +1,5 @@
+web3==7.10.0
+python-dotenv==1.1.0
+requests
+pypng
+py-solc-x==2.0.3
